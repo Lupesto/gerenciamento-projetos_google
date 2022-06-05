@@ -114,15 +114,115 @@ a mentoria serve para atender as expectativas e criar a noção de potencial
 
 
 Construção de relacionamentos:
->>>>PAREI AQUI<<<<<
+Conhecer os membros da equipe
+trata-los não como apenas funcionários
+construir relaciomento com os envolvidos
+Vá além do projeto, quanto as perguntas
+
 
 Controle de custos:
+o projeto muda conforme vamos compreendendo as expectativas e necessidades das partes
+é importante proteger a equipe de mudanças e retrabalho constante
+Documente bem as expectativas iniciais do projeto
+
+entender o impacto das mudanças no orçamento, cronograma, certificar que todos compreendam esses impactos
 
 
 Capacitação da equipe:
+delegar resposabilidades e permitir que tomem decisões para o projeto.
 
-
-Comunicação de status e preocupações:
 
 
 pode ser que seja responsável em ensinar e orientar os membros da equipe
+
+
+---
+
+Equipes multifuncionais
+membros da equipe com conjuntos de habilidades diferentes, com funções distintas... com background diferente, todos com objetivo em concluir o projeto
+
+trazem diferentes ideias e estratégias para o projeto
+
+
+nesse tipo de equipe é importante que cada membro entenda sua função
+É vital definir metas claras para a equipe e certificar-se de que ela entende essas metas.
+
+Use uma linguagem direta e concisa, evitando detalhes e explicações irrelevantes.
+ não deixe de definir itens-chave, como orçamento, prazos, requisitos de qualidade ou recursos importantes. Certifique-se de que os membros da sua equipe entendem as metas da tarefa e do projeto, incentivando-os a fazer perguntas e esclarecer informações.
+
+você deve verificar continuamente a equipe para ter certeza que todos estão avançando em direção aos objetivos
+
+
+tem que certificar que os membros possuem as habilidades necessárias
+
+reserve um tempo para cominucar a equipe sobre o progresso do projeto, para que todos reconheçam seus impactos no projeto
+
+pergunte aos membros se conseguem terminar suas tarefas a tempo e se não pergunte como pode ajudá-los
+Comunique sucessos, atrasos e problemas à equipe
+
+é importante reconhecer os esforços de cada uma das etapas e aqueles no backstage
+
+
+-----------]
+HABILIDADES ESSENCIAIS DE UM GRENTE DE PROJETO 
+
+competências chave:
+ possibilitar a tomada de decisões, comunicar e encaminhar, fortes habilidades organizacionais e flexibilidade
+
+
+tornar o processo de tomada de decisão colaborativo
+ex: receber informações da equipe de como atingir metas especificas
+
+o gerente pode ter uma ideia sobre a execução de tarefas, mas os membros da equipe possuem abordagens mais criativas e eficientes
+
+é importante saber quando deve encaminhar algum problema para a gerência. Quando necessário encaminhar para a gerência tente abordar com problema e solução ou sugestões com potencial.
+
+LISTA ferramentas organizacionais disponíveis:
+-Software de planejamento e programação (modelos, fluxos de trabalho, calendários)
+
+-Ferramentas de colaboração (e-mail, software de colaboração, painéis)
+
+-Documentação (arquivos, planos, planilhas)
+
+-Ferramentas de garantia de qualidade (avaliações, controladores de produtividade, relatórios)
+
+
+
+FLEXIBILIDADE
+mudança é inevitável
+
+planejamento flexível para ajudar no projeto em momento de imprevisibilidade:
+
+*Avaliar as restrições externas.
+ao planejar o projeto levar em consideração eventos externos como feriados nacionais, férias de membros da equipe e licenças médicas.
+na programação é importante ter uma margem de tempo para aliviar o impacto no projeto
+
+*Planejar os riscos e desafios
+pense em possiveis riscos 
+ex: possiveis problemas de dessistências, possibilidade de contratar um autônomo, 
+lembre de observar dados históricos para avaliar os riscos
+aprenda com seus projetos passados
+
+-
+Calculando flutuação no cronograma.
+Flutuação - Folga
+quantidade de tempo que podesse esperar para iniciar uma tarefas antes que isso afete o cronograma do projeto e ameace o resultado
+auxilia no gerenciamento de recursos, cronogramas e mantem o projeto no caminho certo.
+
+
+*Calculo de flutuação só é apresentado em um curso posterior a este
+
+
+
+---
+
+Lidando com a ambiguidade em um projeto:
+Mantenha a calma. Inspirará os membros da equipe fazer o mesmo
+Expresse empatia. é importante tentar entender o que sua equipe pensa e sente. Deixar a equipe saber que está preocupado com os desafios deles e se deonstre disponível para apoiá-los.
+
+Comunique aquilo que é claro, que não tem possibilidade alguma de mudança.
+
+
+tome decisões e cumpra-as. Não questione suas próprias decisões na frente da equipe pois levará a uma incerteza ainda maior. Lembre-se de explicar claramente o novo caminho que tomarão.
+
+
