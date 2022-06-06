@@ -225,4 +225,36 @@ Comunique aquilo que é claro, que não tem possibilidade alguma de mudança.
 
 tome decisões e cumpra-as. Não questione suas próprias decisões na frente da equipe pois levará a uma incerteza ainda maior. Lembre-se de explicar claramente o novo caminho que tomarão.
 
+-- mitos sobre gerentes
+
+Mito: você tem que ser um especialista na área e ter muito conhecimento técnico sobre o projeto. 
+visão mais generalista, visão mais ampla do projeto
+ajudar os interessados a cooperarem
+
+garantem os recursos para execução  do serviço
+
+contratamento especialistas e montam todas as peças do projeto. Não precisam ser especialistas em todos os campos
+
+
+
+
+Mito: somente pessoas com muita experiência em uma organização podem gerenciar projetos com sucesso. 
+
+. Para gerenciar com sucesso projetos em qualquer organização, você deve adquirir as habilidades, ferramentas e técnicas e conhecimentos necessários e ser capaz de aplicá-los. Você não precisa necessariamente ter trabalhado em funções anteriores na organização. 
+
+
+Mito: você precisa saber todos os detalhes do projeto em todos os momentos ~
+: sua função como gerente de projeto é comunicar-se com as partes interessadas, esclarecer objetivos e definir expectativas. Confie na sua equipe para lidar com os detalhes de cada tarefa do projeto e se comunicar com você quando houver um problema. 
+
+não gerencia o time mas sim as tarefas
+fazer com que as coisas sejam feitas
+ninguem é especialista em tudo
+
+orientar a equuipe e garantir que possuem suporte
+os riscos devem ser comunicados para as pessoas certas no tempo certo
+
+especie de maestro
+
+uso de listas permite saber o que precisa ser feito hoje
+
 
