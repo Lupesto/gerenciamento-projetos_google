@@ -258,3 +258,11 @@ especie de maestro
 uso de listas permite saber o que precisa ser feito hoje
 
 
+enabling
+escalating
+gathering
+
+
+
+=---
+
