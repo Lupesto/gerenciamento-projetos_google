@@ -48,25 +48,126 @@ Há projetos que continuam após implementação, por exemplo manutenção de um
 Estudo de caso: a importância de cada fase do projeto
 
 
-para inciar um projeto:
+
+Qual Primeiro passo para iniciar um projeto?
 envolver todos os principais participantes na estimativa do esforço necessário para concluir o projeto, incluindo custo, cronograma e recursos. 
-não é uma tarefa rápida de se concluir
 
 
 
-Vamos aplicar o ciclo de vida do projeto ao projeto. 
 
-Iniciar o projeto
-Esta é a fase na qual Jason se apressou no primeiro cenário. Idealmente, nesta fase, Jason discute os objetivos do projeto com a Flight Simulators, Inc. para ter uma compreensão clara do que eles estão pedindo. Depois de definir as metas do projeto, Jason pode reunir as partes interessadas e os membros da equipe do projeto para definir o que precisa ser feito para criar com sucesso o treinamento para a Flight Simulators, Inc. Jason identifica os conjuntos de habilidades necessários, o cronograma e o custo para desenvolver o treinamento. Ele identifica e documenta o valor que o projeto cria para a empresa. Ele apresenta todas as informações que reuniu à equipe de liderança da empresa, que aprova a proposta de Jason. Jason então envia a proposta para a Flight Simulators, Inc., e eles a aceitam. 
+ETAPAS DO PROJETO
 
-Traçar um plano
-Agora que Jason tem aprovação para trabalhar no projeto, ele traça um plano do início ao fim. Ter um plano em vigor garante que todos os membros da equipe e partes interessadas estejam preparados para concluir as tarefas. Jason descreve os prazos e tarefas importantes para o sucesso do projeto. Ele cria um cronograma para contabilizar todos os recursos, materiais e tarefas necessários para concluir o projeto. 
+Inicio:
+Clara compreensão doque está sendo pedido
+reunir partes interessadas e membros do projeto <- definir metas
+identificar conjuntos de habilidades necessários e custos
+deesenvolvimento cronograma 
+Envio da proposta para os interessados
+Com aprovação traçar um plano do início ao fim
+Definir prazos e tarefas importantes para o sucesso do projeto
+Execução :
+Monitoramento da equipe
+seu papel não é completar as tarefas individuais, mas ajudar a derrubar quaisquer barreiras que retardem ou impeçam a equipe de concluir as tarefas. 
+Comunicar expectativas de cronograma e qualidade
+Manter todos atualizados e receber feedback do cliente
+Encerramento do projeto:
+Discussão sobre lições aprendidas com o projeto
+organizar uma recompensa paa comemorar
 
-Executar e concluir tarefas
-Durante essa fase do projeto, a equipe de Jason coloca o plano em ação executando o trabalho. Jason monitora a equipe conforme eles concluem as tarefas do projeto. O papel dele como gerente de projeto não é completar as tarefas individuais, mas ajudar a derrubar quaisquer barreiras que retardem ou impeçam a equipe de concluir as tarefas. Também é responsabilidade de Jason comunicar as expectativas de cronograma e qualidade. Jason usa habilidades de comunicação para manter a Flight Simulators, Inc. atualizada sobre o status do projeto e receber feedback deles. Isso mantém o projeto dentro do cronograma e do orçamento.
 
-Encerrar o projeto
-A equipe de Jason concluiu o treinamento com sucesso, e ele o entrega à Flight Simulators, Inc. Eles estão muito satisfeitos com o resultado! Jason agora está pronto para encerrar o projeto e seguir para o próximo. Antes de encerrar este capítulo, Jason e a equipe discutem e documentam as lições aprendidas com o projeto. O que funcionou bem e o que poderia funcionar melhor da próxima vez? Jason também organiza um pequeno almoço para a equipe para comemorar e reconhecer o trabalho árduo. 
+-----
 
-Principal conclusão
-Pode parecer muito trabalhoso passar por todo o ciclo de vida de um projeto, mas o impacto de longo prazo é enorme. É sua função como gerente de projeto certificar-se de que sua liderança realmente compreende o risco de não se preparar adequadamente para um projeto. Fazer suposições incorretas pode colocar sua empresa em risco. Em vez disso, dedicar um tempo para iniciar, planejar, executar e encerrar seu projeto com cuidado leva ao sucesso e a boas relações de trabalho com os clientes. 
+etapas:
+Iniciar projeto
+	organização das informações sobre o projeto
+	plano: definir metas do projeto, determinar recursos que vc possui (espaço, dinheiro, pessoas. Tudo que é necessário para conclusão do projeto), 
+	aprovação da proposta
+
+
+fazer um plano
+	criar um orçamento
+	criar a agenda
+	definir equipe
+	determinar as roles e responsabilidades
+	planejar riscos e mudanças (problemas legais, mudanças no orçlamento, atrasos na agenda).
+	Comunicar todas informações ao time (comunicar seus planos aos outros)
+
+
+
+executar e completar tarefas
+	gerenciar o progresso das tarefas
+	comunicar
+	fazer ajustas ao cronograma
+
+fechar o projeto
+	asegurar que todas tarefas foram concluidas
+	confirmar que a versão final do projeto foi aceita (ter certeza que os interessados estão satisfeitos com o resultado)
+	refletir sobre as lições aprendidas durante o projeto
+	celebrar os esforços
+
+
+-----
+[salvar leitura resumo fases do projeto]
+
+----
+diferentes projetos demandam diferentes metodologias
+
+[blueprint]
+principios
+etapas e tarefas, principios
+
+linear - prever tarefa que deve ser completada antes da próxima
+etapas antes da fundação, certeza antes dos resultados
+
+
+planos flexiveis,  mudanças no meio docaminho
+
+
+linear -> clareza na sequencia de tarefas
+iterative projects - mais flexibilidade, antecipação de mudanças
+
+
+Uma metodologia de gerenciamento de projetos é um conjunto de princípios e processos para se assumir um projeto ao longo do ciclo de vida dele. O método pode ser linear (com uma tarefa concluída antes que a próxima possa começar) ou iterativo (com algumas tarefas acontecendo ao mesmo tempo).
+
+
+Você pode combinar metodologias
+cada projeto exige um método
+
+-- 
+
+os mais populares métodos: waterfall e agile
+
+
+waterfall
+criada anos 70
+sequencia das fases
+linear
+manufatura e construção utiliza esse metodo + software
+há diversas adaptações do waterfall criadas pelo design e varejo
+
+segue o fluxo já visto aq
+inicio  ... fechamento
+
+
+orçamento pequeno não aceita erros e atrasos
+em um restaurante < linear
+
+
+A Cascata tem uma abordagem linear. Ela segue um conjunto ordenado de etapas que estão vinculadas a expectativas, recursos e metas claramente definidos que provavelmente não serão alterados. Essa é uma abordagem útil quando as fases do projeto estão claramente definidas.
+
+
+
+- Agile
+flexivel e adaptavel
+projetos que utilizam geralmente possuem diversas tarefas para serem feitas ao mesmo tempo
+anos 90
+resposta a grande demanda por produtos
+Não se espera conclusão de uma tarefa para iniciar a proxima
+tem um curso focado em agile
+scrum tem agile como base
+
+construção de um site
+entrega em parte do trabalho
+
+as mais conhecidas metodologias
+não significa q sao as melhores
