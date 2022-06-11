@@ -171,3 +171,119 @@ entrega em parte do trabalho
 
 as mais conhecidas metodologias
 não significa q sao as melhores
+
+---
+Há diversas maneiras de implementação das metologia
+Comparação 1.waterfall e 2.agile
+
+
+1- gerente como lider, priorizando e atribuindo tarefas
+2- gerente como facilitador, equipe gerindo o próprio trabalho
+
+1- entregas bem estabelecidas, bem documentada
+2-planejamento em interações mais curto, concentração em entregar mais rápido.
+
+1- Linear
+2- organizado em fases (sprints)
+
+1- custos monitorados cuidadosamente ao longo do processo
+2- custos podem mudar a cada interação
+
+1- critérios de qualidade definidos claramente
+2-informações continuas dos interessados e feedback de usuários. Implementação das melhorias regularmente
+
+1- comunicação continua sobre os marcos, caminho certo para às expectativas do cliente
+2- comunicação consistente entre usuários e a equipe do projeto
+
+
+1- monitoramente para garantir que o projeto está no caminho certo
+2- marcos depende das partes interessadas
+
+
+
+----
+
+Metodologias Lean e Six Sigma
+
+Lean (também chamada de manufatura enxuta)
+origem na manufatura
+remoção dos desperdícios em uma operação
+otimização das etapas do processo
+
+os oito tipos de desperdícios:
+ defeitos, excesso de processamento, superprodução, espera, inventário, transporte, movimento e talento não utilizado
+
+
+exemplo de desperdicios:
+Falta de documentação adequada
+Falta de padrões de processo
+Falta de compreensão das necessidades dos clientes
+Falta de comunicação eficaz
+Falta de controle de processos
+Projeto de processo ineficiente
+Falhas de gestão
+
+
+
+
+leans 5s(pilhares para uma boa administração)
+Etapas: classificar, colocar em ordem, brilhar, padronizar e manter
+limpar e organizar o local de trabalho
+
+Detalhe sobre as etapas:
+Classificar: remova todos os itens não necessários para as operações de produção atuais e deixe apenas o essencial. 
+
+Colocar em ordem: organize os itens necessários para que sejam fáceis de usar. Rotule os itens para que qualquer pessoa possa localizá-los ou guardá-los. 
+
+Brilhar: mantenha tudo no lugar correto. Limpe seu espaço de trabalho todos os dias.
+
+Padronizar: execute o processo da mesma maneira todas as vezes. 
+
+Sustentar: crie o hábito de manter os procedimentos corretos e incutir essa disciplina em sua equipe.
+
+5s está dentro do lean, ajuda a aumentar o desempenho
+
+
+Dentro de lean a utilização do Kanban para gerenciamento de produção
+Kanban -> ferramenta de visualização que permite otimizar o fluxo de trabalho
+exibição visual para identificar o que precisa ser feito e quando
+
+
+--
+Six Sigma
+Redução das variações, garantir que os processos de qualidades sejam sempre seguidos
+qualidade 99,99%
+
+Principios chave:
+Sempre foque no cliente.
+Identifique e entenda como o trabalho é feito. Entenda como o trabalho realmente acontece.
+Faça com que seus processos fluam suavemente.
+Reduza o desperdício e concentre-se no valor.
+Pare os defeitos removendo a variação.
+Envolva-se e colabore com sua equipe
+Aborde a atividade de melhoria de forma sistemática.
+
+
+Aspectos do produto e processos mensuráveis:
+tempo, custo, quantidade..
+
+Inspecionar o produto e rejeitar quaisquer produtos que não atendam aos padrões
+
+
+
+--
+Lean Six Sigma
+
+Combinadas os benefícios são maiores
+Ferramentas dentro do lean como kanban e 5s garantem a qualidade no processo desde o incio
+Desenvolvidos os produtos com Lean são, então, inspecionados/testados usando padrões Six Sigma. Os produtos que não atendem esses padrões são rejeitados
+
+lean -> agiliza os processos
+Six Sigma -> Redução da variação
+
+
+
+5 fases:
+Degine, masure, analyze, improve, control, 
+DMAIC
+
