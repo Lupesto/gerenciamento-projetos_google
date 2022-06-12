@@ -287,3 +287,95 @@ Six Sigma -> Redução da variação
 Degine, masure, analyze, improve, control, 
 DMAIC
 
+definir objwtivo e como alcança-lo
+falar com os interessadoa sobre suas expectativas
+
+mensurar como  o processo atual performa
+
+analyze
+identicar os problemas
+causas e soluções
+
+improve
+apresentar aquilo q encontrou e iniciar as melhorias
+
+
+definir <- resulta no quevc precisa meensurar
+mensurar <-resulta em que analisar
+analisar <- resulta em que melhorar
+Mlhorar <- resulta no que controla
+
+não existe receita de bolo
+depende do objetivo, do time e do problema
+
+[rever final video de lean]
+
+--
+Waterfall:
+tradicional
+tarefas e fases lineares e sequencial 
+Cada etapa concluida antes da próxima
+Gerente atribui e prioriza as tarefas aos membros
+Criterios de medição são claramente definidos no inicio
+
+
+agile:
+Fases curtas de trabalho
+melhorias regularmente
+Algumas fases e tarefas acontecem ao mesmo tempo que outras
+As equipes compartilham a resposabilidade de gerenciar o proprio trabalho
+Scrum e Kanban são estruturas agile
+
+
+Scrum
+Desenvolvimento, entrega e manutenção projetos e produtos complexos
+trabalho colaborativo
+times liderados pelo scrum master
+sprints curtos com lista de entregas
+
+
+Kanban
+abordageem agile
+visualmente status do trabalho
+tarefas a fazer, em andamento e concluido
+
+lean
+utiliza a ferramenta 5s para eliminar desperdicios, economizar dinheiro, melhorar qualidade e simplificar processos
+fazer mais com menos
+implementa o kanban para gerenciar produção
+
+
+six sigma
+redução de variações, 
+garanntir que os processos de qualidade sejam seguidos
+Segue o DMAIC 
+
+Lean Six Sigma
+é uma combinação
+muitas vezes utilizado em projetos que visam a economia de dinheirio
+melhora da qualidade 
+passar pelos processos rapidamente
+resoluçção de problemas coomplxos ou de alto risco
+
+As abordagens podem ser combinadas, depende do projeto
+Escolher uma abordagem que funcione melhor para o projeto, a organização e a equipe requer tempo e prática.
+
+
+
+maximazação do uso de recursos e tempo
+não existe a melhor metodologia
+
+---
+
+Pergunta 8
+Ao encerrar um projeto, em que reunião a equipe reflete sobre o que deu certo e o que não deu certo no projeto?
+
+Retrospectiva
+
+
+Quais das seguintes são responsabilidades do gerente de projeto durante a fase de encerramento? Selecione todas as opções aplicáveis.
+Certificar-se de que todas as tarefas estejam concluídas
+Refletir sobre as lições aprendidas
+Confirmar a aceitação do resultado do projeto
+
+
