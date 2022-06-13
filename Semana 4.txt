@@ -1,0 +1,61 @@
+Como a estrutura e cultura organizacional impactam  na execução do projeto
+
+tipos comuns de estruturas organizacionais
+
+
+o papel do gerente de projetos não é o mesmo em cada organização e time
+
+
+O que é estrutura organizacional?
+como a empresa é organizada
+nessa estrutura são definidos os trabalhos e tarefas por profissão.
+Como os membros cooperam
+Quem reporta para quem <-
+
+
+Você precisa saber onde você está no mapa da organização, para ter clareza para quem dar o report.
+organograma. Detalhes sobre quais tarefas são divididas e coordenadas
+
+
+diferentes tipos estruturas: Classic vs matrix, as mais populares
+
+classic <- piramide. Com CEO na ponta
+ex: carreira militar
+topo tow
+Relatamos diretamente a pessoa acima de nós
+
+matrix<- lembra uma tabela, com projetos que envolvem outras equipes. Neste caso precisamos passar reports
+relatar diretamente aos elos mais altos e os interessados de outros departamentos/programas
+
+
+definição do material:
+A estrutura clássica segue um sistema tradicional de relatório de cima para baixo. A estrutura de matriz envolve relatórios para partes interessadas entre equipes e gerentes diretos.
+
+
+
+
+Durante a entrevista de trabalho você pode perguntar sobre a estrutura organizacional da empresa e qual seu papel
+
+
+
+---
+COMO A ESTRUTURA ORGANIZACIONAL IMPACTA NO GERENCIAMENTO DE PROJETOS?
+
+de maior impacto > autoridade dada ao gerente de projetos
+em uma strutura classica o gerente de projetos fica submisso/limitado aos recursos e talentos selecionados por outro
+
+na matrix:
+mais de um lider para notificar
+cooperar com mais de um lider na organização
+ter clareza sobre quem controla o que
+
+afetam seu planejamento e execução do projeto
+
+--
+
+PMO <- Project manager office
+grupo de gerentes
+
+os gerentes de projeto precisam de uma visão panoramica do progresso de um projeto
+flip side?
+
