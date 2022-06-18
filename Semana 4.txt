@@ -320,5 +320,75 @@ praticar empatia
 
 
 
+---
+
+O papel de um gerente de projeto na gestão de mudanças
+
+Como apoiar a mudança?
+O sucesso de um projeto depende de sua aceitação
+entenda quem será afetado com a mudança: ex - mudança no layout de um site afeta o usuário
+
+Pode ser que não seja sua função a mudança, mas sim de um superior. Existem formas de você apoiar a implantação da mudança
+
+Perguntas a se fazer:
+Como a organização reagirá à mudança? 
+Quais influenciadores podem afetar a mudança? 
+Quais são os melhores meios de comunicação? 
+Quais práticas de gestão de mudanças levarão à implementação bem-sucedida do meu projeto? 
+
+
+as respostas podem te auxiliar na criação de um plano para apoiar a adoção do projeto
+
+
+manter as partes interessadas/impactadas cientes sobre a próxima mudança
+.tempo para feedback dos funcionários lugar para expressar sugestões e preocupações. 
+
+.passos para o encerramento do projeto com entrega às partes demonstrações, fóruns e vídeos
+
+
+seja empatico com os desafios e ansiedades que a mudança pode gerar
+
+
+ferramentas uteis na adoção da mudança:
+mecanismos de feedback (captar informações das partes interessadas)
+fluxogramas
+mapeamento da cultura  > ilustrar a cultura e como o comportamento dos funcionários podem ser afetados
+
+
+[Anotar material complementar]
+
+
+----
+
+Governança corporativa e de projetos
+
+Governança nos negócios é a estrutura de gestão na qual as decisões são tomada
+entender quem está no comando
+
+governança corporativa e de projetos estão relacionadas
+
+cada organização possui uma prática para orientar e controlar ações <- governança corporativa
+
+afeta toda organização ex, planos de ação, controles internos e externos e medições de desempenho
+
+
+a governança de projeto deve se adaptar às necessidades da empresa
+projeto deve estar alinhado com os objetivos maiores da empresa.
+
+ex:
+Considerar os interesses de longo e curto prazo de sua organização
+
+Tomar decisões conscientes sobre quais projetos assumir e evitar projetos se você não tiver recursos suficientes
+
+Fornecer informações oportunas, relevantes e confiáveis ao conselho administrativo e outras partes interessadas importantes 
+
+Provocar a entrada e a compra de gerentes seniores, uma vez que eles são os tomadores de decisão 
+
+Durante a fase de início, priorizar objetivos claros, acessíveis e sustentáveis, a fim de reduzir a confusão e os conflitos
+
+Durante a fase de planejamento, atribuir propriedade e prestação de contas a uma equipe experiente para entregar, monitorar e controlar o processo 
+
+Durante a fase de execução, aprender com os erros e adaptar-se a conhecimentos novos ou aprimorados
+
 
 
