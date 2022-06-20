@@ -1,0 +1,190 @@
+--> COMO EMBARCAR CARREIRA
+	---
+	INTRODUÇÃO AO PROGRAMA
+	---
+metodologias:
+agile, scrum, waterfall, kanban 
+
+
+O  que será visto neste módulo?
+planos de carreira, 
+responsabilidades e habilidades essenciais de um gerente de projeto, 
+importância do ciclo de vida do projeto, 
+metodologias comuns de gerenciamento de projetos 
+e como a estrutura organizacional e a cultura influenciam o gerenciamento de projetos.
+
+
+PMI-> espera que a força de trabalho no gerenciamento de projetos aumente em 22 milhões de novos empregos
+
+Consultar:
+Site do PMI e Guia Scrum
+
+
+Diversos são os exemplos de projetos. Um deles: Festa aniversário, um projeto pode ser algo novo como uma melhoria.
+Conhecimento reutilizável em diversas áreas
+
+	---
+	FUNDAMENTOS DO GERENCIAMENTO DE PROJETOS
+	---
+O que é gerenciamento de projetos?
+aplicação de conhecimentos, habilidades, ferramentas e técnicas para atender os requisitos do projeto e alcançar o resultado esperado
+
+
+
+O que é um projeto?
+conjunto de tarefas que precisam ser concluidas para se alcançar um resultado
+
+todo projeto tem:
+prazo,custo, escopo, recursos
+
+
+Exige colaboração e comunicação. O projeto deve estar dentro do prazo e orçamento possui data de inicio e fim.
+
+
+as tarefas devem ser planejadas, acompanhadas e gerenciadas
+
+Vantagem e ter um projeto organizado:
+economia de tempo e dinheiro, a não prática pode nos levar a perdas.
+assegura que o projeto entregue seja o mesmo esperado dentro do prazo e orçamento
+
+--
+O que um gerente de projeto faz?
+As resposabilidades variam dependendo do projeto
+planejamento e organização, administram as tarefas, orçamento, controle de custos 
+
+criação de plano de projeto, organizará reuniões e documentos do projeto, delega tarefas para os membros, acompanha as tarefas realizadas, acompanha projeto do incio ao fim
+
+
+--
+Projeto vs Programa vs portfólio
+programa - conjunto de projetos (relacionados ou semelhantes)
+portfólio - coleção de projetos e programas em toda organização
+
+	---
+	APRENDIZADO SOBRE CORREIRAS 
+	---
+exemplo de funções:
+gerenciar a agenda dos funcionários
+Garantir que os deveres e resposabilidade serão cobertos durante cada turno
+capacidade de reunir pessoas e colocar todos na mesma página
+
+
+
+Possiveis perguntas em entrevistas:
+Como lida com várias tarefas ao mesmo tempo?
+Contar como foi ter que influenciar um cliente ou colega de equipe?
+Tenha exemplos para as respostas
+
+
+não se limite aos títulos das vagas
+Outros titulos para o cargo:
+assistente de projetos
+gerente de operações
+gerente de programa
+assistente de operações
+coordenador de projetos
+assistente de programa
+
+
+
+gerentes de projeto -> gerenciamento diário
+gerentes de programa gerenciam vários projetos simultaneamente
+Ainda há gerentes de portfólio.
+gerenciamento operacional: analise de vários departamentos e ver como interagem e operam
+Trabalham com vários colaboradores de diversos segmentos do negócio
+
+
+--
+Elaboração currículo
+
+principais palavras chave:
+Coordenação, organização, liderança, administração tempo, priorização, monitorar, planejamento, 
+
+
+Palavras recomendadas ao elaborar currículo:
+Analítico
+Assertivo
+Avaliação de resultados
+Avaliação de progresso
+Atenção aos detalhes
+Resolução de conflitos
+Colaborativo
+Coordenação
+Comunicação
+Desenvolvimento
+Avaliação
+Execução de planos
+Análise financeira
+Avaliação impactante
+Engajamento de liderança
+Gerenciamento de reuniões
+Gerenciamento das expectativas do cliente
+Gerenciamento de conflitos
+Gerenciamento de relacionamentos com as partes interessadas
+Gerenciamento de fornecedores
+Cumprimento de prazos
+Monitoramento
+Multitarefa
+Planejamento
+Priorização
+Solução de problemas
+Desenvolvimento de processos
+Melhoria de processos
+Coordenação de projetos
+Implementação de projetos
+Inicialização de projetos
+Planejamento de projetos
+Relatórios do projeto
+Controle de qualidade
+Avaliação de risco
+Gerenciamento de riscos
+Desenvolvimento de soluções
+Planejamento estratégico
+Fortes habilidades interpessoais
+Forte comunicação verbal
+Forte comunicação escrita
+
+
+--> COMO SER UM GERENTE DE PROJETOS EFICAZ?
+
+	---
+	COMO GERENTE AGREGA VALOR?
+	---
+
+	---
+	FUNÇÕES E RESPONSABILIDADES
+	---
+
+	---
+	HABILIDADES ESSENCIAIS
+	---
+
+
+
+--> CICLO DE VIDA E METODOLOGIAS 
+
+	---
+	COMPREENDER O CICLO DE VIDA DO PROJETO
+	---
+
+	---
+	ANALISAR AS DIFERENTES FASES DO PROJETO
+	---
+
+	---
+	COMPARAR METODOLOGIAS E ABORDAGENS DE GERENCIAMENTO DE PROJETOS
+	---
+
+
+--> ESTRUTURA ORGANIZACIONAL E CULTURA
+	---
+	ENTENDENDO A ESTRUTURA ORGANIZACIONAL
+	---
+
+	---
+	ENTENDENDO O IMPACTO DA CULTURA ORGANIZACIONAL
+	---
+
+	---
+	COMPREENDER A GESTÃO DE MUDANÇA
+	---
