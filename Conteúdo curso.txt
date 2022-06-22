@@ -92,6 +92,10 @@ gerentes de programa gerenciam vários projetos simultaneamente
 Ainda há gerentes de portfólio.
 gerenciamento operacional: analise de vários departamentos e ver como interagem e operam
 Trabalham com vários colaboradores de diversos segmentos do negócio
+--
+Proprietário do produto: direciona a direção do desenvolvimento e do progresso do produto. 
+
+Scrum master: coordena e orienta a equipe Scrum. Tem conhecimento em estrutura Agile e 
 
 
 --
@@ -145,19 +149,272 @@ Forte comunicação verbal
 Forte comunicação escrita
 
 
+Sites indicados:
+indeed, ziprecruiter, 
+
+
+-- 
+Perguntas
+Gerenciamento de projetos é a aplicação de conhecimentos, habilidades, ferramentas e técnicas para atender aos requisitos do projeto e alcançar o resultado desejado
+
+Gerentes de projetos: devem usar as mesmas ferramentas, técnicas e metodologias todos os dias em seus projetos? sim, deve haver consistência de ferramentas
+
+Qual beneficio em fazer estágio?
+Contato com pessoas setor desejado, melhorar currículo, experiencia prática de curto prazo no setor
+
+Vantagem em trabalhar por contrato:
+trabalhar em diversas empresas e prjetos, criar portfólio, desenvolver rede profissional
+
+Quais resposabilidades do gerente de projetos?
+Sabe o que a equipe do projeto precisa realizar e quando.
+Ajuda a equipe a conseguir o que precisa para manter o projeto em andamento.
+Comunica marcos importantes do projeto para permanecer na tarefa.
+
+
+
 --> COMO SER UM GERENTE DE PROJETOS EFICAZ?
 
 	---
 	COMO GERENTE AGREGA VALOR?
 	---
 
+priorização, delegação e comunicação efetiva
+transformar em pequenas tarefas
+
+juntar time e stakeholders para fazer o plano
+Stakeholders - aqueles interessados no sucesso de um projeto
+
+delegar tarefas para as pessoas certas
+
+contato regular com time
+transparente com o progresso
+
+trabalham muito a relação e cooperação das pessoas
+
+gerir a linha do  tempo, atividades, entender quem precisa estar envolvido
+
+
+---
+foco no cliente
+os clientes são aqueles que definem os requisitos de um projeto e estabelecem diretrizes importantes como orçamento e prazos
+os clientes podem ser externos ou internos
+
+para entregar um projeto com sucesso é essencial compreender as expectativas do cliente
+os gerentes devem construir um relacionamento com o cliente, ouvi-los e que fiquem satisfeitos com o resultado.
+
+perguntas ao clientes: entender que problema ele quer resolver, se ele possui alguma referência daquilo que quer
+
+exemplos de perguntas:
+qual problema que precisa de ajuda para resolver?
+como o problema afeta sua organização?
+o que levou a pedir ajuda agora?
+o que espera como resultado?
+
+quanto mais respostas mais as chances em produzir aquilo que o cliente quer.
+
+Construção equipe:
+Equipe é o maior recurso
+O gerente deve enteder as motivações, pontos fracos e forte de cada membro
+
+para a construção da equipe é necessário considerar as habilidades necessárias para o projeto
+Garantir que cada indivíduo é valorizado, confiável e apreciado
+permite que façam perguntas e lide com suas necessidades o mais rápido possível
+
+
+Promoção de relacionamentos e comunicação:
+construa relacionamentos pois envolve pessoas a solução de problemas
+trate-os com consideração e respeito
+
+
+Planejamento e organização:
+fazer uso de ferramentas de produtividades e criar processos
+criar planos, timelines, agendas e outras formas de documentar o progresso do projeto
+
+
+monitorar e gerenciar o orçamento
+identificar problemas e riscos
+gerenciar a qualidade
+remover barreiras
+
+
+--
+
+
+
+
 	---
 	FUNÇÕES E RESPONSABILIDADES
 	---
 
+principais responsabilidades:
+planejamento, organização, gerenciamento de tarefas, orçamento, controle de custos e outros fatores para ajudar a manter o projeto dentro do orçamento e do prazo. 
+
+acompanhar detalhes diários
+
+habilidades interpessoais: comportamentos que usamos para interagir com outras pessoas como comunicação, escuta ativa e liderança
+
+Ensino e mentoria:
+espécie de mentor para a equipe
+explicar as expectativas assim eliminando o retrabalho, confusão e frustação
+a mentoria serve para atender as expectativas e criar a noção de potencial
+
+Construção de relacionamentos:
+Conhecer os membros da equipe
+trata-los não como apenas funcionários
+construir relaciomento com os envolvidos
+Vá além do projeto, quanto as perguntas
+
+Controle de custos:
+o projeto muda conforme vamos compreendendo as expectativas e necessidades das partes
+é importante proteger a equipe de mudanças e retrabalho constante
+Documente bem as expectativas iniciais do projeto
+
+entender o impacto das mudanças no orçamento, cronograma, certificar que todos compreendam esses impactos
+
+Capacitação da equipe:
+delegar resposabilidades e permitir que tomem decisões para o projeto.
+
+pode ser que seja responsável em ensinar e orientar os membros da equipe
+--
+
+
+Equipes multifuncionais
+membros da equipe com conjuntos de habilidades diferentes, com funções distintas... com background diferente, todos com objetivo em concluir o projeto
+
+trazem diferentes ideias e estratégias para o projeto
+
+
+nesse tipo de equipe é importante que cada membro entenda sua função
+É vital definir metas claras para a equipe e certificar-se de que ela entende essas metas.
+
+Use uma linguagem direta e concisa, evitando detalhes e explicações irrelevantes.
+ não deixe de definir itens-chave, como orçamento, prazos, requisitos de qualidade ou recursos importantes. Certifique-se de que os membros da sua equipe entendem as metas da tarefa e do projeto, incentivando-os a fazer perguntas e esclarecer informações.
+
+você deve verificar continuamente a equipe para ter certeza que todos estão avançando em direção aos objetivos
+
+
+tem que certificar que os membros possuem as habilidades necessárias
+
+reserve um tempo para cominucar a equipe sobre o progresso do projeto, para que todos reconheçam seus impactos no projeto
+
+pergunte aos membros se conseguem terminar suas tarefas a tempo e se não pergunte como pode ajudá-los
+Comunique sucessos, atrasos e problemas à equipe
+
+é importante reconhecer os esforços de cada uma das etapas e aqueles no backstage
+--
+
+
+
 	---
 	HABILIDADES ESSENCIAIS
 	---
+
+habilidades organizacionais e interpessoais
+guiar o time
+
+competências chave:
+ possibilitar a tomada de decisões, comunicar e encaminhar, fortes habilidades organizacionais e flexibilidade
+
+tornar o processo de tomada de decisão colaborativo
+ex: receber informações da equipe de como atingir metas especificas
+
+o gerente pode ter uma ideia sobre a execução de tarefas, mas os membros da equipe possuem abordagens mais criativas e eficientes
+
+é importante saber quando deve encaminhar algum problema para a gerência. Quando necessário encaminhar para a gerência tente abordar com problema e solução ou sugestões com potencial.
+
+LISTA ferramentas organizacionais disponíveis:
+-Software de planejamento e programação (modelos, fluxos de trabalho, calendários)
+-Ferramentas de colaboração (e-mail, software de colaboração, painéis)
+-Documentação (arquivos, planos, planilhas)
+-Ferramentas de garantia de qualidade (avaliações, controladores de produtividade, relatórios)
+
+
+FLEXIBILIDADE
+mudança é inevitável
+
+planejamento flexível para ajudar no projeto em momento de imprevisibilidade:
+
+*Avaliar as restrições externas.
+ao planejar o projeto levar em consideração eventos externos como feriados nacionais, férias de membros da equipe e licenças médicas.
+na programação é importante ter uma margem de tempo para aliviar o impacto no projeto
+
+*Planejar os riscos e desafios
+pense em possiveis riscos 
+ex: possiveis problemas de dessistências, possibilidade de contratar um autônomo, 
+lembre de observar dados históricos para avaliar os riscos
+aprenda com seus projetos passados
+
+
+Calculando flutuação no cronograma.
+Flutuação - Folga
+quantidade de tempo que podesse esperar para iniciar uma tarefas antes que isso afete o cronograma do projeto e ameace o resultado
+auxilia no gerenciamento de recursos, cronogramas e mantem o projeto no caminho certo.
+
+*Calculo de flutuação só é apresentado em um curso posterior a este
+---
+
+Lidando com a ambiguidade em um projeto:
+Mantenha a calma. Inspirará os membros da equipe fazer o mesmo
+Expresse empatia. é importante tentar entender o que sua equipe pensa e sente. Deixar a equipe saber que está preocupado com os desafios deles e se deonstre disponível para apoiá-los.
+
+Comunique aquilo que é claro, que não tem possibilidade alguma de mudança.
+
+tome decisões e cumpra-as. Não questione suas próprias decisões na frente da equipe pois levará a uma incerteza ainda maior. Lembre-se de explicar claramente o novo caminho que tomarão.
+
+-- mitos sobre gerentes
+Mito: você tem que ser um especialista na área e ter muito conhecimento técnico sobre o projeto. 
+visão mais generalista, visão mais ampla do projeto
+ajudar os interessados a cooperarem
+
+garantem os recursos para execução  do serviço
+
+contratamento especialistas e montam todas as peças do projeto. Não precisam ser especialistas em todos os campos
+
+
+
+Mito: somente pessoas com muita experiência em uma organização podem gerenciar projetos com sucesso. 
+
+Para gerenciar com sucesso projetos em qualquer organização, você deve adquirir as habilidades, ferramentas e técnicas e conhecimentos necessários e ser capaz de aplicá-los. Você não precisa necessariamente ter trabalhado em funções anteriores na organização. 
+
+
+Mito: você precisa saber todos os detalhes do projeto em todos os momentos
+sua função como gerente de projeto é comunicar-se com as partes interessadas, esclarecer objetivos e definir expectativas. Confie na sua equipe para lidar com os detalhes de cada tarefa do projeto e se comunicar com você quando houver um problema. 
+
+não gerencia o time mas sim as tarefas
+fazer com que as coisas sejam feitas
+ninguem é especialista em tudo
+
+orientar a equuipe e garantir que possuem suporte
+os riscos devem ser comunicados para as pessoas certas no tempo certo
+
+especie de maestro
+
+uso de listas permite saber o que precisa ser feito hoje
+
+
+---
+uso das skills interpessoais para o relacionamento das pessoas que envolvem o projeto
+
+influência sem autoridade
+guiar a equipe para que cumpram seus papéis sem o uso de ordens diretas
+
+skills para isso:>
+comunicação, negociação, mediação de conflitos, entender motivações
+
+comunicação - como o time esta progredidando na tarefa, prover feedbacks claros
+negociação - compromisso da equipe em um novo prazo em troca de um prazo maior por outra tarefa
+conflict mediation - mudanças no projeto e aumento de possíveis problemas = tensão e conflito dentro do time
+understanding motivations - como a equipe prefere receber o reconhecimento por um bom trabalho.
+
+
+importante para aprender como os membros da equipe trabalham melhor, como preferem receber feedback e até mesmo como compartilhar elogios. 
+
+
+trabalhar com grupo de pessoas ao invés de sozinho
+não tenha medo de tentar diferentes áreas
+
+--
+Atividades
 
 
 
@@ -167,24 +424,704 @@ Forte comunicação escrita
 	COMPREENDER O CICLO DE VIDA DO PROJETO
 	---
 
+diversos detalhes para tornar o projeto um sucesso
+o ciclo de vida serve para guiar o projeto para a direção certa
+fases:iniciar o projeto, fazer um plano,exercutar e completar tarefas, fechar o projeto
+
+
+iniciar o projeto
+
+nesta fase definimos os objetivo e deliverables
+identificar o orçamento e recursos necessários
+documentar todas informações
+parte em que o projeto é aprovado ou não
+
+
+make a plan
+como vc vai alcançar esses objetivos?
+exemplo do que deve incluir:
+orçamento, prazo das tarefas, roles e responsabilities da equipe, agenda, recursos, um guia do que fazer em caso de problemas ou mudanças do projeto
+
+
+executar e completar tarefas
+(monitorar o progresso e manter a equipe motivada)
+
+close the project
+um momento de celebração do trabalho duro que a equipe teve
+anotar o que foi feito ou não
+melhor para o proximo projeto
+Há projetos que continuam após implementação, por exemplo manutenção de uma casa
+
+--
+Estudo de caso: a importância de cada fase do projeto
+
+Qual Primeiro passo para iniciar um projeto?
+envolver todos os principais participantes na estimativa do esforço necessário para concluir o projeto, incluindo custo, cronograma e recursos. 
+
+
+ETAPAS DO PROJETO
+
+Inicio:
+Clara compreensão doque está sendo pedido
+reunir partes interessadas e membros do projeto <- definir metas
+identificar conjuntos de habilidades necessários e custos
+deesenvolvimento cronograma 
+Envio da proposta para os interessados
+Com aprovação traçar um plano do início ao fim
+Definir prazos e tarefas importantes para o sucesso do projeto
+
+Execução :
+Monitoramento da equipe
+seu papel não é completar as tarefas individuais, mas ajudar a derrubar quaisquer barreiras que retardem ou impeçam a equipe de concluir as tarefas. 
+Comunicar expectativas de cronograma e qualidade
+Manter todos atualizados e receber feedback do cliente
+Encerramento do projeto:
+Discussão sobre lições aprendidas com o projeto
+organizar uma recompensa paa comemorar
+
+
+--
+
+
 	---
 	ANALISAR AS DIFERENTES FASES DO PROJETO
 	---
+--
+
+etapas:
+Iniciar projeto
+	organização das informações sobre o projeto
+	plano: definir metas do projeto, determinar recursos que vc possui (espaço, dinheiro, pessoas. Tudo que é necessário para conclusão do projeto), 
+	aprovação da proposta
+
+
+fazer um plano
+	criar um orçamento
+	criar a agenda
+	definir equipe
+	determinar as roles e responsabilidades
+	planejar riscos e mudanças (problemas legais, mudanças no orçlamento, atrasos na agenda).
+	Comunicar todas informações ao time (comunicar seus planos aos outros)
+
+
+
+executar e completar tarefas
+	gerenciar o progresso das tarefas
+	comunicar
+	fazer ajustas ao cronograma
+
+fechar o projeto
+	asegurar que todas tarefas foram concluidas
+	confirmar que a versão final do projeto foi aceita (ter certeza que os interessados estão satisfeitos com o resultado)
+	refletir sobre as lições aprendidas durante o projeto
+	celebrar os esforços
+
+----
+diferentes projetos demandam diferentes metodologias
+
+
+principios
+etapas e tarefas, principios
+
+linear - prever tarefa que deve ser completada antes da próxima
+etapas antes da fundação, certeza antes dos resultados
+
+
+planos flexiveis,  mudanças no meio docaminho
+
+
+linear -> clareza na sequencia de tarefas
+iterative projects - mais flexibilidade, antecipação de mudanças
+
+
+Uma metodologia de gerenciamento de projetos é um conjunto de princípios e processos para se assumir um projeto ao longo do ciclo de vida dele. O método pode ser linear (com uma tarefa concluída antes que a próxima possa começar) ou iterativo (com algumas tarefas acontecendo ao mesmo tempo).
+
+
+Você pode combinar metodologias
+cada projeto exige um método
+
 
 	---
 	COMPARAR METODOLOGIAS E ABORDAGENS DE GERENCIAMENTO DE PROJETOS
 	---
+
+os mais populares métodos: waterfall e agile
+
+
+waterfall
+criada anos 70
+sequencia das fases
+linear
+manufatura e construção utiliza esse metodo + software
+há diversas adaptações do waterfall criadas pelo design e varejo
+
+segue o fluxo já visto aq
+inicio  ... fechamento
+
+
+orçamento pequeno não aceita erros e atrasos
+em um restaurante < linear
+
+
+A Cascata tem uma abordagem linear. Ela segue um conjunto ordenado de etapas que estão vinculadas a expectativas, recursos e metas claramente definidos que provavelmente não serão alterados. Essa é uma abordagem útil quando as fases do projeto estão claramente definidas.
+
+
+
+- Agile
+flexivel e adaptavel
+projetos que utilizam geralmente possuem diversas tarefas para serem feitas ao mesmo tempo
+anos 90
+resposta a grande demanda por produtos
+Não se espera conclusão de uma tarefa para iniciar a proxima
+tem um curso focado em agile
+scrum tem agile como base
+
+construção de um site
+entrega em parte do trabalho
+
+as mais conhecidas metodologias
+não significa q sao as melhores
+
+---
+Há diversas maneiras de implementação das metologia
+Comparação 1.waterfall e 2.agile
+
+
+1- gerente como lider, priorizando e atribuindo tarefas
+2- gerente como facilitador, equipe gerindo o próprio trabalho
+
+1- entregas bem estabelecidas, bem documentada
+2-planejamento em interações mais curto, concentração em entregar mais rápido.
+
+1- Linear
+2- organizado em fases (sprints)
+
+1- custos monitorados cuidadosamente ao longo do processo
+2- custos podem mudar a cada interação
+
+1- critérios de qualidade definidos claramente
+2-informações continuas dos interessados e feedback de usuários. Implementação das melhorias regularmente
+
+1- comunicação continua sobre os marcos, caminho certo para às expectativas do cliente
+2- comunicação consistente entre usuários e a equipe do projeto
+
+
+1- monitoramente para garantir que o projeto está no caminho certo
+2- marcos depende das partes interessadas
+
+
+
+----
+
+Metodologias Lean e Six Sigma
+
+Lean (também chamada de manufatura enxuta)
+origem na manufatura
+remoção dos desperdícios em uma operação
+otimização das etapas do processo
+
+os oito tipos de desperdícios:
+ defeitos, excesso de processamento, superprodução, espera, inventário, transporte, movimento e talento não utilizado
+
+
+exemplo de desperdicios:
+Falta de documentação adequada
+Falta de padrões de processo
+Falta de compreensão das necessidades dos clientes
+Falta de comunicação eficaz
+Falta de controle de processos
+Projeto de processo ineficiente
+Falhas de gestão
+
+
+
+
+leans 5s(pilhares para uma boa administração)
+Etapas: classificar, colocar em ordem, brilhar, padronizar e manter
+limpar e organizar o local de trabalho
+
+Detalhe sobre as etapas:
+Classificar: remova todos os itens não necessários para as operações de produção atuais e deixe apenas o essencial. 
+
+Colocar em ordem: organize os itens necessários para que sejam fáceis de usar. Rotule os itens para que qualquer pessoa possa localizá-los ou guardá-los. 
+
+Brilhar: mantenha tudo no lugar correto. Limpe seu espaço de trabalho todos os dias.
+
+Padronizar: execute o processo da mesma maneira todas as vezes. 
+
+Sustentar: crie o hábito de manter os procedimentos corretos e incutir essa disciplina em sua equipe.
+
+5s está dentro do lean, ajuda a aumentar o desempenho
+
+
+Dentro de lean a utilização do Kanban para gerenciamento de produção
+Kanban -> ferramenta de visualização que permite otimizar o fluxo de trabalho
+exibição visual para identificar o que precisa ser feito e quando
+
+
+--
+Six Sigma
+Redução das variações, garantir que os processos de qualidades sejam sempre seguidos
+qualidade 99,99%
+
+Principios chave:
+Sempre foque no cliente.
+Identifique e entenda como o trabalho é feito. Entenda como o trabalho realmente acontece.
+Faça com que seus processos fluam suavemente.
+Reduza o desperdício e concentre-se no valor.
+Pare os defeitos removendo a variação.
+Envolva-se e colabore com sua equipe
+Aborde a atividade de melhoria de forma sistemática.
+
+
+Aspectos do produto e processos mensuráveis:
+tempo, custo, quantidade..
+
+Inspecionar o produto e rejeitar quaisquer produtos que não atendam aos padrões
+
+
+
+--
+Lean Six Sigma
+
+Combinadas os benefícios são maiores
+Ferramentas dentro do lean como kanban e 5s garantem a qualidade no processo desde o incio
+Desenvolvidos os produtos com Lean são, então, inspecionados/testados usando padrões Six Sigma. Os produtos que não atendem esses padrões são rejeitados
+
+lean -> agiliza os processos
+Six Sigma -> Redução da variação
+
+
+
+5 fases:
+Degine, masure, analyze, improve, control, 
+DMAIC
+
+definir objwtivo e como alcança-lo
+falar com os interessadoa sobre suas expectativas
+
+mensurar como  o processo atual performa
+
+analyze
+identicar os problemas
+causas e soluções
+
+improve
+apresentar aquilo q encontrou e iniciar as melhorias
+
+
+definir <- resulta no quevc precisa meensurar
+mensurar <-resulta em que analisar
+analisar <- resulta em que melhorar
+Mlhorar <- resulta no que controla
+
+não existe receita de bolo
+depende do objetivo, do time e do problema
+
+[rever final video de lean]
+
+--
+Waterfall:
+tradicional
+tarefas e fases lineares e sequencial 
+Cada etapa concluida antes da próxima
+Gerente atribui e prioriza as tarefas aos membros
+Criterios de medição são claramente definidos no inicio
+
+
+agile:
+Fases curtas de trabalho
+melhorias regularmente
+Algumas fases e tarefas acontecem ao mesmo tempo que outras
+As equipes compartilham a resposabilidade de gerenciar o proprio trabalho
+Scrum e Kanban são estruturas agile
+
+
+Scrum
+Desenvolvimento, entrega e manutenção projetos e produtos complexos
+trabalho colaborativo
+times liderados pelo scrum master
+sprints curtos com lista de entregas
+
+
+Kanban
+abordageem agile
+visualmente status do trabalho
+tarefas a fazer, em andamento e concluido
+
+lean
+utiliza a ferramenta 5s para eliminar desperdicios, economizar dinheiro, melhorar qualidade e simplificar processos
+fazer mais com menos
+implementa o kanban para gerenciar produção
+
+
+six sigma
+redução de variações, 
+garanntir que os processos de qualidade sejam seguidos
+Segue o DMAIC 
+
+Lean Six Sigma
+é uma combinação
+muitas vezes utilizado em projetos que visam a economia de dinheirio
+melhora da qualidade 
+passar pelos processos rapidamente
+resoluçção de problemas coomplxos ou de alto risco
+
+As abordagens podem ser combinadas, depende do projeto
+Escolher uma abordagem que funcione melhor para o projeto, a organização e a equipe requer tempo e prática.
+
+
+
+maximazação do uso de recursos e tempo
+não existe a melhor metodologia
+
+---
+
+Perguntas:
+
 
 
 --> ESTRUTURA ORGANIZACIONAL E CULTURA
 	---
 	ENTENDENDO A ESTRUTURA ORGANIZACIONAL
 	---
+Como a estrutura e cultura organizacional impactam  na execução do projeto
+tipos comuns de estruturas organizacionais
+o papel do gerente de projetos não é o mesmo em cada organização e time
+
+
+O que é estrutura organizacional?
+como a empresa é organizada
+nessa estrutura são definidos os trabalhos e tarefas por profissão.
+Como os membros cooperam
+Quem reporta para quem <-
+
+
+Você precisa saber onde você está no mapa da organização, para ter clareza para quem dar o report.
+organograma. Detalhes sobre quais tarefas são divididas e coordenadas
+
+
+diferentes tipos estruturas: Classic vs matrix, as mais populares
+
+classic <- piramide. Com CEO na ponta
+ex: carreira militar
+topo tow
+Relatamos diretamente a pessoa acima de nós
+
+matrix<- lembra uma tabela, com projetos que envolvem outras equipes. Neste caso precisamos passar reports
+relatar diretamente aos elos mais altos e os interessados de outros departamentos/programas
+
+
+definição do material:
+A estrutura clássica segue um sistema tradicional de relatório de cima para baixo. A estrutura de matriz envolve relatórios para partes interessadas entre equipes e gerentes diretos.
+
+
+Durante a entrevista de trabalho você pode perguntar sobre a estrutura organizacional da empresa e qual seu papel
 
 	---
 	ENTENDENDO O IMPACTO DA CULTURA ORGANIZACIONAL
 	---
+--
+de maior impacto > autoridade dada ao gerente de projetos
+em uma strutura classica o gerente de projetos fica submisso/limitado aos recursos e talentos selecionados por outro
+
+na matrix:
+mais de um lider para notificar
+cooperar com mais de um lider na organização
+ter clareza sobre quem controla o que
+
+afetam seu planejamento e execução do projeto
+
+--
+
+PMO <- Project manager office
+grupo de gerentes
+
+os gerentes de projeto precisam de uma visão panoramica do progresso de um projeto
+flip side?
+
+---
+O papel de um gerente de projeto dentro de diferentes estruturas organizacionais
+questionar sobre sua função e responsabilidades
+Deixará claro as habilidades necessárias para a posição
+
+
+Estruturas clássicas:
+hierarquia de cima para baixo
+
+também chamadas de organizações funcionais
+departamentos separados baseados na função (ex: financeiro, marketing..)
+
+Como é o gerenciamento em uma organização como essa?
+Em um projeto diversos gerentes de outros departamentos farão parte
+tenha ciencia sobre sua autoridade e recursos
+
+
+Estruturaa de matriz:
+Dois ou mais gestores
+deve prestar satisfação a outros departamentos
+---
+PMO
+Escritório de Gerenciamento de Projetos
+ grupo dentro de uma organização que define, estabelece e ajuda a manter padrões e processos de gerenciamento de projetos 
+
+pmo
+oferecem orientação e apoio aos gerentes de projetos 
+Eles compartilham as melhores práticas, status do projeto e direção para todos os projetos da organização
+
+garantir a consistência entre os projetos, fornecendo orientações sobre processos, ferramentas e métricas.
+
+ajudam a definir práticas comuns de cultura de projetos, treinando os funcionários sobre abordagens ideais e melhores práticas.
+
+ frequentemente responsáveis pela gestão e alocação de recursos – como pessoas e equipamentos – em projetos em toda a organização com base no orçamento, prioridades, cronogramas e muito mais. Eles também ajudam a definir os papéis e responsabilidades necessários em qualquer projeto. Os PMOs fornecem treinamento, mentoria e coaching para todos os funcionários, menos os gerentes de projetos em particular. 
+
+investem e fornecem modelos, ferramentas e softwares para ajudar a gerenciar projetos.
+
+FAzem o arquivamento dos projetos encerrados
+
+--
+
+
+como as pessoas lidam com as outras em uma organização
+performace esperada
+
+há diversas definições para cultura organizacional
+Valores que os empregados compartilham assim como os valores, missões e história da organização
+
+pergunte sobre a cultura na organização
+
+Como acontecem as comunicações? (telefone, email, reunião)
+como as decisões são tomadas? (Democraticamente ou top-down)
+Como lidam ao entrar um novato na empresa? (vão comer algo ou apresentar o espaço de trabalho)
+Matrix ou Classic?
+QUais as praticas, comportamentos e valores as pessoas da organização compartilham? (tem uma expectativa em fazer horas extras ou trabalhar no fim de semana?)
+
+essas perguntas respondem sobre a cultura da empresa
+Mesma coisa ao viver em outro país, você precisa se adaptar a cultura local
+--
+
+entender a cultura é essencial para orientar a equipe
+[peter ducker]
+a cultura influencia o sucesso do negócio
+
+a cultura define como a organização lida com seus negócios. 
+Cultura organizacional forte e positiva  ajuda a reter melhores funcionários. 
+existem empresas com cultura toxica
+
+É possível identificar alguns traços da cultura do local por meio da observação. Veja os trajes, expressões, comportamentos
+
+A cultura impacta como os funcionários fazem o trabalho deles
+
+
+Cultura e impacto no gerenciamneto de projeto: comunicação, tomada de decisão, rituais, estilos de gerenciamento anteriores e valores
+
+
+Perguntas que pode fazer na entrevista para saber sobre a cultura
+Atmosfera:
+Qual é o código de vestimenta da empresa? 
+Como as pessoas normalmente compartilham crédito nesta empresa? 
+A tomada de risco é encorajada? E o que acontece quando as pessoas falham?
+Como os gestores apoiam e motivam sua equipe?
+Como as pessoas nessa função interagem com clientes e usuários?
+Quando e como os membros da equipe dão feedback uns aos outros?
+Quais são algumas tradições no local de trabalho?
+Quais são algumas das maneiras pelas quais a empresa celebra o sucesso?
+
+
+Políticas
+Quais são as políticas em torno de dias de doença e férias?
+A empresa permite flexibilidade dos funcionários (por exemplo, trabalhar de casa, horário de trabalho flexível)?
+Que políticas existem que apoiam os funcionários que compartilham sua identidade no local de trabalho?
+
+Processos
+Qual é o processo de integração da empresa?
+Como os funcionários medem o impacto de seu trabalho?
+
+
+Valores
+Quais são as declarações de missão e valor da empresa?
+Como a pessoa nessa função pode contribuir para a missão da organização?
+Como a organização apoia o desenvolvimento profissional e o crescimento da carreira?
+
+Rituais:
+Como são celebrados aniversários e feriados? 
+Os funcionários geralmente almoçam ao mesmo tempo e no mesmo lugar? 
+Observe as interações dos funcionários:observar como os funcionários interagem pode ajudá-lo a adaptar seu estilo de interação à norma da empresa. 
+
+As interações dos funcionários são mais formais ou informais? 
+As ideias são solicitadas aos funcionários em diferentes funções? 
+
+perguntas sobre comunicação:
+É costume assinar e-mails em nome da equipe e não de você individualmente? 
+As apresentações devem incluir membros da equipe ou ser apresentadas exclusivamente pelo gerente de projeto?
+
+Ouça o que os funcionários tem a dizer sobre a empresa.
+
+o gerente de projetos é um  agente de mudança, aquele que ajuda a organização se transformar.
+Caso passe na entrevista sente-se com a gerência para entender o que esperam de você.
+Quebra do status quo
+
+
 
 	---
 	COMPREENDER A GESTÃO DE MUDANÇA
 	---
+
+Introdução à gestão de mudanças
+
+change management
+pode ser que o projeto entregue seja uma nova ferramenta ou processo que deve ser adotado por uma organização
+é necessário ter clareza quanto a estrutura e cultura organizacional
+é a entrega de um projeto e fazer com que as pessoas o adotem
+Assegura que o projeto seja completamente concluido 
+
+Um novo gerente de projetos não é resposável pelo planejamento de um projeto de mudança
+a implementação de um novo projeto pode mudar os processos, orçamentos, cronogramas e cargos/resposabilidades
+Pode exigir dos colaboradores a adaptação por algo novo e diferente, há resistências nisso
+
+
+3 conceitos do nucleo e boas práticas na gestão de mudanças
+- Delegar resposabilidade de uma tarefa para outro (ele deve lidar como se  fosse dele) + urgência (delimitando o tempo, com datas e prazos finais)
+resultado: Aumento da motivação, interesse e engajamento
+
+- Skills e personalidades certas das pessoas para o seu time
+Cada pessoa no time é complementar
+Comunique ao time com clareza sua visão
+
+- Comunicação
+transparente em seu planos e adias
+deixar as informações com fácil acesso
+
+
+--
+Participando da gestão de mudanças
+
+Geralmente o gerente não será o unico responsável pelo processo de mudança
+participar do projeto de mudança pode ser auxiliar na quebra de barreiras e resistências da equipe, exemplicar como o novo sistema é melhor;.
+Comunicar o que será mudado e o motivo
+
+dependendo da estrutura da organização e cultura o proceso da gestãao de mudança muda
+
+Questões que podem te ajduar em diversos cenários:
+Comoa organização vai reagir a mudança?
+Quais inflencias podem afetar a mudança?
+qual a melhor forma de comunicar a mudança?
+
+
+--
+
+Pergunta 1
+Quais são os três conceitos principais do processo de gestão de mudanças?
+Criar um senso de propriedade e urgência em torno do projeto.
+
+Descobrir a combinação certa de habilidades e personalidades ao selecionar as pessoas que trabalharão na equipe.
+
+Se comunicar com eficiência.
+
+
+Exemplo de gestão de mudança:
+adoçãod e um novo software / novo sistema de pedidos
+
+
+Quais das seguintes práticas recomendadas podem ajudar um gerente de projeto a abordar a gestão de mudanças em seus projetos?
+
+Usar ferramentas para ajudar a implementar uma mudança.
+Comunicação sobre as mudanças
+praticar empatia
+
+
+---
+
+O papel de um gerente de projeto na gestão de mudanças
+
+Como apoiar a mudança?
+O sucesso de um projeto depende de sua aceitação
+entenda quem será afetado com a mudança: ex - mudança no layout de um site afeta o usuário
+
+Pode ser que não seja sua função a mudança, mas sim de um superior. Existem formas de você apoiar a implantação da mudança
+
+Perguntas a se fazer:
+Como a organização reagirá à mudança? 
+Quais influenciadores podem afetar a mudança? 
+Quais são os melhores meios de comunicação? 
+Quais práticas de gestão de mudanças levarão à implementação bem-sucedida do meu projeto? 
+
+
+as respostas podem te auxiliar na criação de um plano para apoiar a adoção do projeto
+
+
+manter as partes interessadas/impactadas cientes sobre a próxima mudança
+.tempo para feedback dos funcionários lugar para expressar sugestões e preocupações. 
+
+.passos para o encerramento do projeto com entrega às partes demonstrações, fóruns e vídeos
+
+
+seja empatico com os desafios e ansiedades que a mudança pode gerar
+
+
+ferramentas uteis na adoção da mudança:
+mecanismos de feedback (captar informações das partes interessadas)
+fluxogramas
+mapeamento da cultura  > ilustrar a cultura e como o comportamento dos funcionários podem ser afetados
+
+
+[Anotar material complementar]
+
+----
+Governança corporativa e de projetos
+
+Governança nos negócios é a estrutura de gestão na qual as decisões são tomada
+entender quem está no comando
+
+governança corporativa e de projetos estão relacionadas
+
+cada organização possui uma prática para orientar e controlar ações <- governança corporativa
+
+afeta toda organização ex, planos de ação, controles internos e externos e medições de desempenho
+
+
+a governança de projeto deve se adaptar às necessidades da empresa
+projeto deve estar alinhado com os objetivos maiores da empresa.
+
+ex:
+Considerar os interesses de longo e curto prazo de sua organização
+
+Tomar decisões conscientes sobre quais projetos assumir e evitar projetos se você não tiver recursos suficientes
+
+Fornecer informações oportunas, relevantes e confiáveis ao conselho administrativo e outras partes interessadas importantes 
+
+Provocar a entrada e a compra de gerentes seniores, uma vez que eles são os tomadores de decisão 
+
+Durante a fase de início, priorizar objetivos claros, acessíveis e sustentáveis, a fim de reduzir a confusão e os conflitos
+
+Durante a fase de planejamento, atribuir propriedade e prestação de contas a uma equipe experiente para entregar, monitorar e controlar o processo 
+
+Durante a fase de execução, aprender com os erros e adaptar-se a conhecimentos novos ou aprimorados
+
+
+--
+DICA CARREIRA
+
+----
+PERSEGUINDO SUA NOVA CARREIRA
+1. Entenda a função almejada
+
+- pegar 10 descrições para o mesmo cargo
+- Orderne os requisitos da vaga com base na frequência que aparecem
+
+liste suas qualidades como
+hardskills, interpessoais, qualidades pessoais, educação
+
+Experi~encias além do mundo profissioanl são válidas
+
+
+- Combinando seu perfil com os requisitos de trabalho
+adequar seu perfil
+
+rever suas experiencias e destacar de verde, laranja e vermelho
+
+marcar com verde - todas habilidades que vc tiver que estão na frequência da vaga almejada
+marcar com laranja - habilidades que podem servir para a função. Habilidades tranferiveis. Convencer o recrutador 
+Vermelho - Não são relevantes
+
+
